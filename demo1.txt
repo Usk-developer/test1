@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Uday............Developer
+=======
+Hello Uday...........first project
+>>>>>>> ec7e555ea0988f0cc8c44363f903553796a69810
